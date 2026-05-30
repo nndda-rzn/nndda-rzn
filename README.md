@@ -52,36 +52,84 @@ I am a **Frontend-focused Web Developer** with a strong foundation in Informatic
 
 <hr />
 
-## Featured Project: Room Reservation System (SRR)
+## Featured Projects
 
 <div align="center">
 
-**A Comprehensive Academic Resource Management Platform.**
+<i>Selected work spanning clinical AI research, self-hosted infrastructure, and microservices architecture.</i>
+
+<br><br>
 
 <table>
   <tr>
-    <td align="center"><b>User Portal</b></td>
-    <td align="center"><b>Admin Dashboard</b></td>
-    <td align="center"><b>Backend API</b></td>
+    <td width="22%" align="center" valign="top">
+      <br>
+      <b>CDSS-MI</b>
+      <br><br>
+      <img src="https://img.shields.io/badge/Research-DC2626?style=flat-square" alt="Research" />
+      <br><br>
+    </td>
+    <td valign="top">
+      <b>Clinical Decision Support System for ECG-Based Myocardial Infarction Screening</b>
+      <br>
+      AI-assisted screening with YOLOv8 detection, YOLOv11 classification, HiResCAM explainability, and a 17+ rule clinical engine. Achieved 100% MI recall on test set.
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <br>
+      <a href="https://github.com/nndda-rzn/cdss-v1">View Repository &rarr;</a>
+    </td>
   </tr>
+
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React" />
-      <img src="https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="Tailwind" />
+    <td align="center" valign="top">
+      <br>
+      <b>Local AI Ops</b>
       <br><br>
-      <a href="https://gitlab.com/nndda-rzn/ta-pwd-fe.git">View Repository</a>
+      <img src="https://img.shields.io/badge/Production-16A34A?style=flat-square" alt="Production" />
+      <br><br>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React" />
-      <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" alt="Vite" />
+    <td valign="top">
+      <b>Self-hosted Control Panel for Docker, AI Inference, and Cloudflare Tunnel</b>
+      <br>
+      Web admin panel for managing Docker containers, deployment wizard, AI model upload and activation, inference testing, automated backup, and watchdog notifications. Includes RBAC and full audit logging.
       <br><br>
-      <a href="https://github.com/nndda-rzn/admin-dashboard.git">View Repository</a>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+      <br>
+      <a href="https://github.com/nndda-rzn/Local-AI-Server-Control-Panel">View Repository &rarr;</a>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node" />
-      <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
+  </tr>
+
+  <tr>
+    <td align="center" valign="top">
+      <br>
+      <b>CampusFlow</b>
       <br><br>
-      <a href="https://github.com/nndda-rzn/ta-pwd-be.git">View Repository</a>
+      <img src="https://img.shields.io/badge/Microservices-2563EB?style=flat-square" alt="Microservices" />
+      <br><br>
+    </td>
+    <td valign="top">
+      <b>Academic Service and Supervisor Request Management Platform</b>
+      <br>
+      Event-driven microservices platform built with Go, gRPC, RabbitMQ, and the transactional outbox pattern. Features 6-role RBAC, departmental scoping, SLA tracking, and a Next.js frontend with App Router.
+      <br><br>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <br>
+      <a href="https://github.com/nndda-rzn/campus-flow">View Repository &rarr;</a>
     </td>
   </tr>
 </table>
