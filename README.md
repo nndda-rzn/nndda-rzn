@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&width=700&lines=Ananda+Rizki+Nurhidayat;Engineer+%26+Researcher;Full-Stack+%7C+AI%2FML+%7C+Microservices" alt="Typing SVG" />
-  
+  <h2>Ananda Rizki Nurhidayat</h2>
+  <p><b>Engineer & Researcher</b> &middot; Full-Stack | AI/ML | Microservices</p>
+
   <p>
-    <a href="mailto:rndaazzki@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.instagram.com/log2nx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="mailto:rndazzki@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/ananda-rizki-nurhidayat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/nndda-rzn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
@@ -31,6 +31,20 @@ Informatics Engineering student at <b>Universitas Ahmad Dahlan</b>. I build full
 | **Primary Stack** | React, Next.js, TypeScript, Go, Node.js, Python |
 | **Research Interest** | Computer vision for medical diagnostics, explainable AI |
 | **Open To** | Internships, research collaboration, open-source contribution |
+
+</div>
+
+<hr />
+
+## Education & Profile
+
+<div align="center">
+
+| | |
+|:---:|:---|
+| **University** | Universitas Ahmad Dahlan |
+| **Program** | Informatics Engineering (Bachelor) |
+| **ORCID** | <a href="https://orcid.org/0009-0001-2259-9398">0009-0001-2259-9398</a> |
 
 </div>
 
@@ -73,7 +87,7 @@ Informatics Engineering student at <b>Universitas Ahmad Dahlan</b>. I build full
     <td valign="top">
       <b>Clinical Decision Support System for ECG-Based Myocardial Infarction Screening</b>
       <br>
-      AI-assisted screening with YOLOv8 detection, YOLOv11 classification, HiResCAM explainability, and a 17+ rule clinical engine. Achieved 100% MI recall on test set.
+      AI-assisted screening with YOLOv8 detection, YOLOv11 classification, HiResCAM explainability, and a 17+ rule clinical engine. Achieved 100% MI recall (sensitivity-first trade-off, MI precision 0.69) on a 96-sample test set.
       <br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
@@ -139,28 +153,7 @@ Informatics Engineering student at <b>Universitas Ahmad Dahlan</b>. I build full
 
 <hr />
 
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nndda-rzn&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://wakatime.com/badge/user/7ab66855-882f-49db-a8cb-ea185edddf9b.svg" />
-</div>
-
-<hr />
-
-## Spotify Now Playing
-
-<div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qfazip2tnr4366uy2ctzv6b2eu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=c48787&interchange=false&profanity=false&bar_color_cover=false&bar_color=53b14f">
-  </a>
-</div>
-
-<hr />
-
 <div align="center">
   <p>Let's build something amazing together.</p>
-  <img src="https://komarev.com/ghpvc/?username=nndda-rzn&color=2F81F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <p>&copy; 2026 Ananda Rizki Nurhidayat</p>
 </div>
