@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&width=700&lines=Ananda+Rizki+Nurhidayat;Frontend+Developer;React+%7C+Next.js+%7C+UI%2FUX+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&width=700&lines=Ananda+Rizki+Nurhidayat;Engineer+%26+Researcher;Full-Stack+%7C+AI%2FML+%7C+Microservices" alt="Typing SVG" />
   
   <p>
     <a href="mailto:rndaazzki@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -10,7 +10,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/Status-Open_for_Internship-success?style=flat-square" alt="Status" />
-    <img src="https://img.shields.io/badge/Role-Frontend_Developer-blue?style=flat-square" alt="Role" />
+    <img src="https://img.shields.io/badge/Role-Engineer_%26_Researcher-blue?style=flat-square" alt="Role" />
     <img src="https://img.shields.io/badge/Education-Informatics_Engineering-orange?style=flat-square" alt="Education" />
   </p>
 </div>
@@ -21,15 +21,16 @@
 
 <div align="center">
 
-I am a **Frontend-focused Web Developer** with a strong foundation in Informatics Engineering. My passion lies in engineering **clean, scalable, and user-centered web interfaces**. I bridge the gap between design and technology, ensuring that every pixel serves a purpose while maintaining high code quality.
+Informatics Engineering student at <b>Universitas Ahmad Dahlan</b>. I build full-stack web applications and applied AI systems, with hands-on experience shipping production-grade platforms across three domains: <b>clinical decision support</b> (ECG-based MI screening with YOLO + HiResCAM), <b>self-hosted AI infrastructure</b> (Docker control panel with Cloudflare Tunnel), and <b>academic microservices</b> (Go + gRPC + RabbitMQ event-driven platform).
 
 <br>
 
 | | |
 |:---:|:---|
-| **Currently Mastering** | React & Next.js as primary tools for building modern UIs |
-| **Focus Areas** | UI/UX Design, Responsive Web Development, API Integration |
-| **Seeking** | Collaboration, open-source contribution, and knowledge exchange |
+| **Engineering Focus** | Full-stack web development, distributed systems, applied AI |
+| **Primary Stack** | React, Next.js, TypeScript, Go, Node.js, Python |
+| **Research Interest** | Computer vision for medical diagnostics, explainable AI |
+| **Open To** | Internships, research collaboration, open-source contribution |
 
 </div>
 
