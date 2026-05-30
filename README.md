@@ -116,15 +116,15 @@ I am a **Frontend-focused Web Developer** with a strong foundation in Informatic
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nndda-rzn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nndda-rzn&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nndda-rzn&theme=tokyonight&hide_border=true&stroke=2F81F7" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nndda-rzn&theme=radical&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nndda-rzn&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nndda-rzn&show_icons=true&theme=radical&hide_border=true&layout=compact" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=nndda-rzn&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nndda-rzn&theme=radical&no-frame=true&column=7" />
   <br/>
-  <img src="https://wakatime.com/badge/user/7ab66855-882f-49db-a8cb-ea185edddf9b.svg" alt="Wakatime" />
+  <img src="https://wakatime.com/badge/user/7ab66855-882f-49db-a8cb-ea185edddf9b.svg" />
 </div>
 
 <hr />
