@@ -23,9 +23,14 @@
 
 I am a **Frontend-focused Web Developer** with a strong foundation in Informatics Engineering. My passion lies in engineering **clean, scalable, and user-centered web interfaces**. I bridge the gap between design and technology, ensuring that every pixel serves a purpose while maintaining high code quality.
 
-- Currently mastering **React** & **Next.js** as my primary tools for building modern UIs.
-- Actively seeking opportunities for collaboration, open-source contribution, and knowledge exchange.
-- Reach me at: <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /> rndazzki@gmail.com
+<br>
+
+| | |
+|:---:|:---|
+| **Currently Mastering** | React & Next.js as primary tools for building modern UIs |
+| **Focus Areas** | UI/UX Design, Responsive Web Development, API Integration |
+| **Seeking** | Collaboration, open-source contribution, and knowledge exchange |
+| **Contact** | <a href="mailto:rndazzki@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ananda-rizki-nurhidayat"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/log2nx/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a> |
 
 </div>
 
