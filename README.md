@@ -4,6 +4,7 @@
   <p>
     <a href="mailto:rndaazzki@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.instagram.com/log2nx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/ananda-rizki-nurhidayat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/Ndarz1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 
@@ -18,7 +19,11 @@
 
 I am a **Frontend-focused Web Developer** with a strong foundation in Informatics Engineering. My passion lies in engineering **clean, scalable, and user-centered web interfaces**. I bridge the gap between design and technology, ensuring that every pixel serves a purpose while maintaining high code quality.
 
----
+- 🌱 Currently mastering **React** & **Next.js** as my primary tools for building modern UIs.
+- 🚀 Actively seeking opportunities for collaboration, open-source contribution, and knowledge exchange.
+- 📫 Reach me at: <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /> rndazzki@gmail.com
+
+<hr />
 
 ## 🛠️ Tech Stack & Tools
 
@@ -48,19 +53,41 @@ I am a **Frontend-focused Web Developer** with a strong foundation in Informatic
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+<hr />
 
 ## 🔥 Featured Project: Room Reservation System (SRR)
 
 **A Comprehensive Academic Resource Management Platform.**
 
-| Component | Tech Stack | Links |
-| :--- | :--- | :--- |
-| **User Portal** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square) | [📂 View Repository](https://gitlab.com/Ndarz1/ta-pwd-fe.git) |
-| **Admin Dashboard** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat-square) | [📂 View Repository](https://github.com/Ndarz1/admin-dashboard.git) |
-| **Backend API** | ![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) | [📂 View Repository](https://github.com/Ndarz1/ta-pwd-be.git) |
+<table>
+  <tr>
+    <td align="center"><b>User Portal</b></td>
+    <td align="center"><b>Admin Dashboard</b></td>
+    <td align="center"><b>Backend API</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React" />
+      <img src="https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="Tailwind" />
+      <br><br>
+      <a href="https://gitlab.com/Ndarz1/ta-pwd-fe.git">📂 View Repo</a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React" />
+      <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" alt="Vite" />
+      <br><br>
+      <a href="https://github.com/Ndarz1/admin-dashboard.git">📂 View Repo</a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node" />
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
+      <br><br>
+      <a href="https://github.com/Ndarz1/ta-pwd-be.git">📂 View Repo</a>
+    </td>
+  </tr>
+</table>
 
----
+<hr />
 
 ## 📈 GitHub Activity
 
@@ -69,12 +96,27 @@ I am a **Frontend-focused Web Developer** with a strong foundation in Informatic
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ndarz1&theme=tokyonight&hide_border=true&stroke=2F81F7" alt="GitHub Streak" />
   <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndarz1&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ndarz1&theme=tokyonight&column=7" alt="GitHub Trophies" />
+  <br/>
   <img src="https://wakatime.com/badge/user/7ab66855-882f-49db-a8cb-ea185edddf9b.svg" alt="Wakatime" />
 </div>
 
----
+<hr />
+
+## 🎧 Spotify Now Playing
+
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qfazip2tnr4366uy2ctzv6b2eu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=c48787&interchange=false&profanity=false&bar_color_cover=false&bar_color=53b14f">
+  </a>
+</div>
+
+<hr />
 
 <div align="center">
   <p>Let's build something amazing together.</p>
+  <img src="https://komarev.com/ghpvc/?username=Ndarz1&color=2F81F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <p>© 2026 Ananda Rizki Nurhidayat</p>
 </div>
