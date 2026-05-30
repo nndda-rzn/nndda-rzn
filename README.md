@@ -8,26 +8,35 @@
     <a href="https://github.com/nndda-rzn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 
-  ![Status](https://img.shields.io/badge/Status-Open_for_Internship-success?style=flat-square)
-  ![Role](https://img.shields.io/badge/Role-Frontend_Developer-blue?style=flat-square)
-  ![Education](https://img.shields.io/badge/Education-Informatics_Engineering-orange?style=flat-square)
+  <p>
+    <img src="https://img.shields.io/badge/Status-Open_for_Internship-success?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Role-Frontend_Developer-blue?style=flat-square" alt="Role" />
+    <img src="https://img.shields.io/badge/Education-Informatics_Engineering-orange?style=flat-square" alt="Education" />
+  </p>
 </div>
 
 <hr />
 
-## 👋 Professional Summary
+## Professional Summary
+
+<div align="center">
 
 I am a **Frontend-focused Web Developer** with a strong foundation in Informatics Engineering. My passion lies in engineering **clean, scalable, and user-centered web interfaces**. I bridge the gap between design and technology, ensuring that every pixel serves a purpose while maintaining high code quality.
 
-- 🌱 Currently mastering **React** & **Next.js** as my primary tools for building modern UIs.
-- 🚀 Actively seeking opportunities for collaboration, open-source contribution, and knowledge exchange.
-- 📫 Reach me at: <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /> rndazzki@gmail.com
+- Currently mastering **React** & **Next.js** as my primary tools for building modern UIs.
+- Actively seeking opportunities for collaboration, open-source contribution, and knowledge exchange.
+- Reach me at: <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /> rndazzki@gmail.com
+
+</div>
 
 <hr />
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-### 💻 Frontend Development
+<div align="center">
+
+**Frontend Development**
+<br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -35,7 +44,10 @@ I am a **Frontend-focused Web Developer** with a strong foundation in Informatic
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend & Infrastructure
+<br><br>
+
+**Backend & Infrastructure**
+<br>
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -43,19 +55,29 @@ I am a **Frontend-focused Web Developer** with a strong foundation in Informatic
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-### 🤖 Data Science & Scripting
+<br><br>
+
+**Data Science & Scripting**
+<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🔧 Tools & Productivity
+<br><br>
+
+**Tools & Productivity**
+<br>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+</div>
+
 <hr />
 
-## 🔥 Featured Project: Room Reservation System (SRR)
+## Featured Project: Room Reservation System (SRR)
+
+<div align="center">
 
 **A Comprehensive Academic Resource Management Platform.**
 
@@ -70,42 +92,44 @@ I am a **Frontend-focused Web Developer** with a strong foundation in Informatic
       <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React" />
       <img src="https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="Tailwind" />
       <br><br>
-      <a href="https://gitlab.com/nndda-rzn/ta-pwd-fe.git">📂 View Repo</a>
+      <a href="https://gitlab.com/nndda-rzn/ta-pwd-fe.git">View Repository</a>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React" />
       <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" alt="Vite" />
       <br><br>
-      <a href="https://github.com/nndda-rzn/admin-dashboard.git">📂 View Repo</a>
+      <a href="https://github.com/nndda-rzn/admin-dashboard.git">View Repository</a>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node" />
       <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
       <br><br>
-      <a href="https://github.com/nndda-rzn/ta-pwd-be.git">📂 View Repo</a>
+      <a href="https://github.com/nndda-rzn/ta-pwd-be.git">View Repository</a>
     </td>
   </tr>
 </table>
 
+</div>
+
 <hr />
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nndda-rzn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nndda-rzn&theme=tokyonight&hide_border=true&stroke=2F81F7" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nndda-rzn&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nndda-rzn&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=nndda-rzn&theme=tokyonight&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nndda-rzn&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
   <br/>
   <img src="https://wakatime.com/badge/user/7ab66855-882f-49db-a8cb-ea185edddf9b.svg" alt="Wakatime" />
 </div>
 
 <hr />
 
-## 🎧 Spotify Now Playing
+## Spotify Now Playing
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -118,5 +142,5 @@ I am a **Frontend-focused Web Developer** with a strong foundation in Informatic
 <div align="center">
   <p>Let's build something amazing together.</p>
   <img src="https://komarev.com/ghpvc/?username=nndda-rzn&color=2F81F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <p>© 2026 Ananda Rizki Nurhidayat</p>
+  <p>&copy; 2026 Ananda Rizki Nurhidayat</p>
 </div>
