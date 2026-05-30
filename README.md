@@ -30,7 +30,6 @@ I am a **Frontend-focused Web Developer** with a strong foundation in Informatic
 | **Currently Mastering** | React & Next.js as primary tools for building modern UIs |
 | **Focus Areas** | UI/UX Design, Responsive Web Development, API Integration |
 | **Seeking** | Collaboration, open-source contribution, and knowledge exchange |
-| **Contact** | <a href="mailto:rndazzki@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ananda-rizki-nurhidayat"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/log2nx/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a> |
 
 </div>
 
