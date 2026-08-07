@@ -3,7 +3,7 @@
   <p><b>Engineer & Researcher</b> &middot; Full-Stack | AI/ML | Microservices</p>
 
   <p>
-    <a href="mailto:rndazzki@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:anandarizn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/ananda-rizki-nurhidayat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/nndda-rzn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
@@ -46,7 +46,18 @@ Informatics Engineering student at <b>Universitas Ahmad Dahlan</b>. I build full
 | **Program** | Informatics Engineering (Bachelor) |
 | **Thesis** | ECG-Based MI Screening with YOLO + HiResCAM (Scopus Q2/Q3, under peer review) |
 | **ORCID** | <a href="https://orcid.org/0009-0001-2259-9398">0009-0001-2259-9398</a> |
-| **CV / Resume** | Available on request via email |
+| **CV / Resume** | Coming soon &mdash; reach out via email in the meantime |
+
+</div>
+
+<hr />
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nndda-rzn&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nndda-rzn&hide_border=true" alt="GitHub Streak" height="165" />
 
 </div>
 
