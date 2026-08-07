@@ -57,7 +57,7 @@ Informatics Engineering student at <b>Universitas Ahmad Dahlan</b>. I build full
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nndda-rzn&hide_border=true" alt="GitHub Streak" height="165" />
-<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=nndda-rzn&layout=compact&hide_border=true" alt="Top Languages" height="165" />
+<img src="https://stats-theta.vercel.app/api/top-langs/?username=nndda-rzn&layout=compact&hide_border=true" alt="Top Languages" height="165" />
 
 <br><br>
 
