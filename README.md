@@ -56,8 +56,11 @@ Informatics Engineering student at <b>Universitas Ahmad Dahlan</b>. I build full
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nndda-rzn&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nndda-rzn&hide_border=true" alt="GitHub Streak" height="165" />
+
+<br><br>
+
+<img src="https://ghchart.rshah.org/nndda-rzn" alt="GitHub Contribution Chart" width="90%" />
 
 </div>
 
