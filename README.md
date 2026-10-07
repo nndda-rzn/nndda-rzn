@@ -19,9 +19,9 @@
 
 ## About
 
-Informatics Engineering student at **Universitas Ahmad Dahlan**, Yogyakarta. I build full-stack web applications and applied AI systems, with hands-on experience shipping production-grade platforms across three domains: **clinical decision support** (ECG-based MI screening with YOLO + HiResCAM), **self-hosted AI infrastructure** (Docker control panel behind Cloudflare Tunnel), and **academic microservices** (Go + gRPC + RabbitMQ event-driven platform).
+Informatics Engineering student at **Universitas Ahmad Dahlan**, Yogyakarta. Builds full-stack web applications and applied AI systems, with hands-on experience shipping production-grade platforms across three domains: **clinical decision support** (ECG-based MI screening with YOLO + HiResCAM), **self-hosted AI infrastructure** (Docker control panel behind Cloudflare Tunnel), and **academic microservices** (Go + gRPC + RabbitMQ event-driven platform).
 
-I care about systems that are auditable, explainable, and honest about their own limits — engineering decisions documented with their trade-offs, not just their results.
+Focused on systems that are auditable, explainable, and honest about their own limits — engineering decisions documented with their trade-offs, not just their results.
 
 <table>
   <tr>
@@ -38,7 +38,7 @@ I care about systems that are auditable, explainable, and honest about their own
   </tr>
   <tr>
     <td><b>Currently</b></td>
-    <td>Finalising bachelor's thesis; peer review pending on a Scopus-indexed manuscript</td>
+    <td>Finalizing bachelor's thesis; peer review pending on a Scopus-indexed manuscript</td>
   </tr>
 </table>
 
@@ -153,11 +153,11 @@ I care about systems that are auditable, explainable, and honest about their own
   </tr>
 </table>
 
-<sub>More work, including smaller utilities and experiments, lives in <a href="https://github.com/nndda-rzn?tab=repositories">my repository list</a>.</sub>
+<sub>More work, including smaller utilities and experiments, lives in the <a href="https://github.com/nndda-rzn?tab=repositories">repository list</a>.</sub>
 
 ## Selected Work
 
-Additional projects beyond the three featured above — each with its own README, setup instructions, and license where applicable.
+Additional projects beyond the three featured above: each with its own README, setup instructions, and license where applicable.
 
 | Project | What it is | Core stack |
 |---|---|---|
@@ -177,12 +177,12 @@ Additional projects beyond the three featured above — each with its own README
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
 **Frameworks & Runtimes**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
@@ -242,9 +242,9 @@ Additional projects beyond the three featured above — each with its own README
 
 <div align="center">
 
-### Let's work together
+### Let’s Work Together
 
-I'm open to **internships** and **research collaboration**. The fastest way to reach me is email.
+Open to **internships** and **research collaboration**. Email is the fastest way to get in touch.
 
 [![Email me](https://img.shields.io/badge/Email_me-anandarizn@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandarizn@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananda-rizki-nurhidayat)
