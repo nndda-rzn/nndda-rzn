@@ -138,7 +138,7 @@ I care about systems that are auditable, explainable, and honest about their own
     <td valign="top">
       <b>Academic Service and Supervisor Request Management Platform</b>
       <br>
-      Event-driven microservices platform built with Go, gRPC, and RabbitMQ, using the transactional outbox pattern to guarantee message delivery across services. Features 6-role RBAC, departmental scoping, SLA tracking, and a Next.js App Router frontend.
+      Event-driven microservices platform built with Go, gRPC, and RabbitMQ, using the transactional outbox pattern to prevent lost events on broker failure across services. Features 6-role RBAC, departmental scoping, SLA tracking, and a Next.js App Router frontend.
       <br><br>
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
       <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white" alt="gRPC" />
@@ -155,6 +155,17 @@ I care about systems that are auditable, explainable, and honest about their own
 
 <sub>More work, including smaller utilities and experiments, lives in <a href="https://github.com/nndda-rzn?tab=repositories">my repository list</a>.</sub>
 
+## Selected Work
+
+Additional projects beyond the three featured above — each with its own README, setup instructions, and license where applicable.
+
+| Project | What it is | Core stack |
+|---|---|---|
+| [Konstelasi](https://github.com/nndda-rzn/konstelasi) | Node-based visual diary: graph note-taking on an infinite canvas, 6 story view modes, time capsules. MIT. | Next.js 16, React 19, GraphQL (Apollo), NestJS 11, MikroORM 6, PostgreSQL, React Flow, Tailwind v4 |
+| [NexusOps](https://github.com/nndda-rzn/nexusops) | Integrated operations monorepo for multimodal logistics: shipments, containers, terminals, yards, with an OR-Tools compute service. | SvelteKit + Svelte 5, ElysiaJS, Bun, Drizzle ORM, PostgreSQL + PostGIS, Redis Streams, MapLibre, Python OR-Tools |
+| [IDX Forecaster](https://github.com/nndda-rzn/idx-forecaster) | Indonesian stock (IDX) forecasting dashboard with OHLC charting and an indicator-driven analysis assistant. MIT. | Next.js, React, TypeScript, Flask, Pandas, scikit-learn, Supabase |
+| [Cosmic Explorer](https://github.com/nndda-rzn/solar) | Interactive 3D exploration of the solar system through to the cosmic web. | Next.js 14, React Three Fiber, Three.js, Zustand, Tailwind |
+
 ---
 
 ## Tech Stack
@@ -167,6 +178,7 @@ I care about systems that are auditable, explainable, and honest about their own
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
 **Frameworks & Runtimes**
 
@@ -177,6 +189,11 @@ I care about systems that are auditable, explainable, and honest about their own
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white)
+![ElysiaJS](https://img.shields.io/badge/ElysiaJS-0B1021?style=flat-square&logo=elysia&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 **AI / Machine Learning**
 
@@ -189,6 +206,9 @@ I care about systems that are auditable, explainable, and honest about their own
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 **Infrastructure & Tooling**
 
@@ -198,6 +218,7 @@ I care about systems that are auditable, explainable, and honest about their own
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![MapLibre](https://img.shields.io/badge/MapLibre-396CB2?style=flat-square)
 
 ---
 
