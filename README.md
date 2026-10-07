@@ -21,7 +21,7 @@
 
 Informatics Engineering student at **Universitas Ahmad Dahlan**, Yogyakarta. Builds full-stack web applications and applied AI systems, with hands-on experience shipping production-grade platforms across three domains: **clinical decision support** (ECG-based MI screening with YOLO + HiResCAM), **self-hosted AI infrastructure** (Docker control panel behind Cloudflare Tunnel), and **academic microservices** (Go + gRPC + RabbitMQ event-driven platform).
 
-Focused on systems that are auditable, explainable, and honest about their own limits — engineering decisions documented with their trade-offs, not just their results.
+Focused on systems that are auditable, explainable, and honest about their own limits: engineering decisions documented with their trade-offs, not just their results.
 
 <table>
   <tr>
@@ -69,7 +69,7 @@ Focused on systems that are auditable, explainable, and honest about their own l
   </tr>
   <tr>
     <td><b>CV / Resume</b></td>
-    <td>Available on request — <a href="mailto:anandarizn@gmail.com">email me</a></td>
+    <td>Available on request. <a href="mailto:anandarizn@gmail.com">Email me</a></td>
   </tr>
 </table>
 
@@ -91,7 +91,7 @@ Focused on systems that are auditable, explainable, and honest about their own l
       <br>
       AI-assisted screening using YOLOv8 detection, YOLOv11 classification, HiResCAM explainability, and a 17+ rule clinical engine. Achieved <b>100% MI recall</b> on a 96-sample test set, with an explicit sensitivity-first trade-off (MI precision 0.69). Every output is traceable: model ID, inference latency, fired rule IDs, rationale, and the HiResCAM overlay are persisted with each screening record.
       <br><br>
-      <i>Bachelor's thesis. Manuscript submitted to a Scopus Q2/Q3 indexed journal (under peer review). Research prototype — not a medical device.</i>
+      <i>Bachelor's thesis. Manuscript submitted to a Scopus Q2/Q3 indexed journal (under peer review). Research prototype, not a medical device.</i>
       <br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
@@ -116,7 +116,7 @@ Focused on systems that are auditable, explainable, and honest about their own l
       <br>
       Web admin panel for managing Docker containers: guided deployment wizard, AI model upload and activation, inference testing, automated backup, and watchdog notifications. Ships with role-based access control and full audit logging.
       <br><br>
-      <i>Internal tooling for private AI infrastructure — source is private, walkthrough available on request.</i>
+      <i>Internal tooling for private AI infrastructure. Source is private, walkthrough available on request.</i>
       <br><br>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
@@ -246,7 +246,6 @@ Additional projects beyond the three featured above: each with its own README, s
 
 Open to **internships** and **research collaboration**. Email is the fastest way to get in touch.
 
-[![Email me](https://img.shields.io/badge/Email_me-anandarizn@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandarizn@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananda-rizki-nurhidayat)
 
 <sub>&copy; 2026 Ananda Rizki Nurhidayat</sub>
